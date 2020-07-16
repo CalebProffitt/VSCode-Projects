@@ -1,1 +1,1 @@
-indata = open(input("File to copy from: ")).read(); outFile = open(input("File to copy to: "), 'w').write(indata); indata.close(); outFile.close()
+indata = open(input("File to copy from: ")).read(); outFile = open(input("File to copy to: "), 'w').write(indata)
